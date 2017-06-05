@@ -11,4 +11,3 @@ defmodule Discuss.Topic do
     |> validate_required([:title])
   end
 end
-  
